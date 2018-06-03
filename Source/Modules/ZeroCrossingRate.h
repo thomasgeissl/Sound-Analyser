@@ -24,7 +24,7 @@
 #ifndef SoundAnalyser_ZeroCrossingRate_h
 #define SoundAnalyser_ZeroCrossingRate_h
 
-#include "AudioAnalysis.h"
+#include "../Audio Analysis/AudioAnalysis.h"
 #include <cmath>
 
 class ZeroCrossingRate : public AudioAnalysis

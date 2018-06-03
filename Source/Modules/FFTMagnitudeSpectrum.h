@@ -24,7 +24,7 @@
 #ifndef SoundAnalyser_FFTMagnitudeSpectrum_h
 #define SoundAnalyser_FFTMagnitudeSpectrum_h
 
-#include "AudioAnalysis.h"
+#include "../Audio Analysis/AudioAnalysis.h"
 #include "../GUI/Custom Analysis Components/FFTComponent.h"
 #include <cmath>
 
